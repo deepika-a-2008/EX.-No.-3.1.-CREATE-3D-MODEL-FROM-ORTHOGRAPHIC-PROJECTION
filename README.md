@@ -1,6 +1,8 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:26/11/2025
+Name : Deepika A
 
+Register No.: 25018166
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -41,6 +43,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+[EDM EX 3 DRAWING.pdf](https://github.com/user-attachments/files/23767815/EDM.EX.3.DRAWING.pdf)
+<img width="947" height="679" alt="image" src="https://github.com/user-attachments/assets/67d099c6-a5aa-4c34-ac4f-f601bf0945e2" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
